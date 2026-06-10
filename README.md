@@ -114,7 +114,6 @@ public class AboutMe {
 
 ![Ramakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-014&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ram-014&theme=tokyonight&hide_border=true)
 
