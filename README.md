@@ -135,7 +135,7 @@ public class AboutMe {
 ## 📬 Connect With Me
 
 > 🚀 **Actively seeking Java Backend / Java Developer roles — Available Immediately**
-> 📍 Bangalore · Chennai · Pune
+> 📍 Bangalore · Chennai ·
 
 <div align="center">
 
