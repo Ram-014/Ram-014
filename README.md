@@ -12,7 +12,9 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About Me
+
+I'm a Java Backend Developer graduating in 2026, focused on building clean, well-tested REST APIs with Spring Boot. I like designing systems that are simple to reason about, properly secured, and easy for the next developer to extend.
 
 ```java
 @RestController
@@ -33,7 +35,6 @@ public class AboutMe {
             ))
             .targetRoles(List.of("Java Developer", "Java Backend Developer", "Software Engineer"))
             .targetCities(List.of("Bangalore", "Chennai", "Pune"))
-            .email("014ramakrishnanaa@gmail.com")
             .status("Open to Work — Available Immediately")
             .build();
     }
@@ -42,60 +43,59 @@ public class AboutMe {
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
+**Core Java & Frameworks**
 
-### ☕ Core Java & Backend Frameworks
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6.4-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-6.6-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### 🔌 API Design & Security
+**API Design & Security**
+
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Database
+**Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-9.1-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2%20DB-In--Memory-003366?style=for-the-badge)
 
-### ⚙️ Build, Tools & DevOps
+**Build, Tools & DevOps**
+
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### 🧪 Testing
+**Testing**
+
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-44A833?style=for-the-badge)
 
-</div>
-
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🛍️ RamShop — Java Backend for E-Commerce Platform
-> **Stack:** Java 21 · Spring Boot 3.4 · Spring Security · Hibernate/JPA · MySQL 9 · JWT · Maven · REST APIs
+#### 🛍️ RamShop — E-Commerce Backend
+**Stack:** Java 21 · Spring Boot 3.4 · Spring Security · Hibernate/JPA · MySQL 9 · JWT · Maven
 
 | Feature | Implementation |
 |---|---|
 | JWT Authentication + BCrypt | Stateless auth with role-based access (USER / ADMIN) |
-| Product & Inventory APIs | 20+ RESTful endpoints — full CRUD with validation |
+| Product & Inventory APIs | 20+ RESTful endpoints with full CRUD and validation |
 | Order Management | Stock auto-deduction via transactional service layer |
 | Cart Service | Session-scoped cart with real-time quantity sync |
 | Exception Handling | Global `@ControllerAdvice` with structured error responses |
-| DB Design | Normalized MySQL schema — products, orders, users, cart tables |
+| DB Design | Normalized MySQL schema — products, orders, users, cart |
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ram-014/ecommerce-fullstack)
 
----
-
-### 🔌 REST API Application — Spring Boot + Hibernate
-> **Stack:** Spring Boot · Hibernate/JPA · MySQL · Maven · Postman
+#### 🔌 REST API Application — Spring Boot + Hibernate
+**Stack:** Spring Boot · Hibernate/JPA · MySQL · Maven · Postman
 
 | Feature | Implementation |
 |---|---|
@@ -108,20 +108,19 @@ public class AboutMe {
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
 ![Ramakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ram-014&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ram-014&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎓 Certifications
+### 🎓 Certifications
 
 | Certificate | Platform |
 |---|---|
@@ -132,10 +131,10 @@ public class AboutMe {
 
 ---
 
-## 📬 Connect With Me
+### 📬 Let's Connect
 
-> 🚀 **Actively seeking Java Backend / Java Developer roles — Available Immediately**
-> 📍 Bangalore · Chennai ·
+🚀 Actively seeking Java Backend / Java Developer roles — available immediately
+📍 Bangalore · Chennai · Pune
 
 <div align="center">
 
