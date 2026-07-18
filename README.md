@@ -7,7 +7,7 @@
 🚀 Passionate about building secure, scalable, and maintainable backend applications with Java and Spring Boot.
 
 🎓 **B.E. Computer Science Engineering (2026)**  
-📍 Bangalore | Chennai | Pune  
+📍 Bangalore | Chennai 
 🟢 **Open to Work – Java Backend Developer | Software Engineer**
 
 <p>
