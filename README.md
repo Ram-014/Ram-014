@@ -1,157 +1,186 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1B4F8A&height=180&section=header&text=Ramakrishnan%20Aadhali&fontSize=46&fontColor=ffffff&fontAlignY=52&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%C2%B7%20REST%20APIs%20%C2%B7%20MySQL%20%C2%B7%20Microservices&descFontSize=15&descAlignY=74&descColor=90CAF9" />
+# 👋 Hi, I'm Ramakrishnan Aadhali
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Hibernate+%2F+JPA;MySQL+%7C+Spring+Security+%7C+JWT;B.E.+CSE+2026+%7C+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+### Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramakrishnan_Aadhali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrishnan-aadhali-b7609b382/)
-[![Gmail](https://img.shields.io/badge/Gmail-014ramakrishnanaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:014ramakrishnanaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ram--014-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ram-014)
+🚀 Passionate about building secure, scalable, and maintainable backend applications with Java and Spring Boot.
+
+🎓 **B.E. Computer Science Engineering (2026)**  
+📍 Bangalore | Chennai | Pune  
+🟢 **Open to Work – Java Backend Developer | Software Engineer**
+
+<p>
+<a href="https://www.linkedin.com/in/ramakrishnan-aadhali-b7609b382/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:014ramakrishnanaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Ram-014"><img src="https://img.shields.io/badge/GitHub-Ram--014-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 </div>
 
 ---
 
-### 👋 About Me
+# 💼 About Me
 
-I'm a Java Backend Developer graduating in 2026, focused on building clean, well-tested REST APIs with Spring Boot. I like designing systems that are simple to reason about, properly secured, and easy for the next developer to extend.
+I'm a Java Backend Developer focused on building reliable backend systems using **Java**, **Spring Boot**, **REST APIs**, and **MySQL**.
 
-```java
-@RestController
-@RequestMapping("/api/ramakrishnan")
-public class AboutMe {
+I enjoy solving real-world problems, writing clean code, and continuously improving my backend development skills through hands-on projects.
 
-    @GetMapping("/profile")
-    public Developer getProfile() {
-        return Developer.builder()
-            .name("Ramakrishnan Aadhali")
-            .role("Java Backend Developer")
-            .education("B.E. CSE — Oasys Institute of Technology, Trichy (Anna University) | 2026")
-            .focusAreas(List.of(
-                "Spring Boot REST APIs",
-                "Hibernate / JPA + MySQL",
-                "Spring Security + JWT",
-                "Microservices Architecture"
-            ))
-            .targetRoles(List.of("Java Developer", "Java Backend Developer", "Software Engineer"))
-            .targetCities(List.of("Bangalore", "Chennai", "Pune"))
-            .status("Open to Work — Available Immediately")
-            .build();
-    }
-}
-```
+### What I'm Looking For
+
+- 💼 Java Backend Developer
+- 💼 Software Engineer
+- 💼 Backend Developer
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-**Core Java & Frameworks**
+### Languages
 
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6.4-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-6.6-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**API Design & Security**
+### Backend
 
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-**Database**
+### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-9.1-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2%20DB-In--Memory-003366?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Build, Tools & DevOps**
+### Tools
 
-![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-**Testing**
-
-![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-44A833?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-#### 🛍️ RamShop — E-Commerce Backend
-**Stack:** Java 21 · Spring Boot 3.4 · Spring Security · Hibernate/JPA · MySQL 9 · JWT · Maven
+## 🛒 E-Commerce Backend
 
-| Feature | Implementation |
-|---|---|
-| JWT Authentication + BCrypt | Stateless auth with role-based access (USER / ADMIN) |
-| Product & Inventory APIs | 20+ RESTful endpoints with full CRUD and validation |
-| Order Management | Stock auto-deduction via transactional service layer |
-| Cart Service | Session-scoped cart with real-time quantity sync |
-| Exception Handling | Global `@ControllerAdvice` with structured error responses |
-| DB Design | Normalized MySQL schema — products, orders, users, cart |
+**Tech Stack:** Java • Spring Boot • Spring Security • Hibernate • JWT • MySQL
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ram-014/ecommerce-fullstack)
+### Highlights
 
-#### 🔌 REST API Application — Spring Boot + Hibernate
-**Stack:** Spring Boot · Hibernate/JPA · MySQL · Maven · Postman
+- JWT Authentication
+- Role-Based Authorization
+- Product Management
+- Shopping Cart
+- Order Management
+- RESTful APIs
+- Global Exception Handling
+- MySQL Database
 
-| Feature | Implementation |
-|---|---|
-| CRUD REST APIs | Full Create / Read / Update / Delete endpoints |
-| Input Validation | Bean Validation (`@Valid`, `@NotNull`, custom constraints) |
-| Postman Testing | 20+ endpoints validated with collection exports |
-| Exception Handling | Custom exception classes + HTTP status mapping |
+🔗 **Repository**
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ram-014)
+https://github.com/Ram-014/ecommerce-fullstack
 
 ---
 
-### 📊 GitHub Stats
+## 📚 Core Java Mini Exercises
+
+A collection of hands-on Java programs covering:
+
+- Java Basics
+- OOP
+- Collections Framework
+- Exception Handling
+- Multithreading
+- File Handling
+- Java 8 Features
+
+🔗 **Repository**
+
+https://github.com/Ram-014
+
+---
+
+## 📅 Appointment Reminder SaaS *(In Progress)*
+
+**Tech Stack**
+
+- Spring Boot
+- Spring Security
+- JWT
+- MySQL
+- Docker
+- Razorpay
+- WhatsApp API
+
+### Planned Features
+
+- Appointment Scheduling
+- Automated WhatsApp & SMS Reminders
+- Online Payments
+- Dashboard
+- Subscription Plans
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ram-014&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Ram-014&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- ✔ Mastering Spring Boot
+- ✔ Building Production-Ready REST APIs
+- ✔ Spring Security & JWT
+- ✔ Docker
+- ✔ Microservices
+- ✔ System Design
+- ✔ AWS
+
+---
+
+# 📫 Let's Connect
+
+I'm actively looking for opportunities as a **Java Backend Developer** and **Software Engineer**.
 
 <div align="center">
 
-![Ramakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<a href="mailto:014ramakrishnanaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ram-014&theme=tokyonight&hide_border=true)
+<a href="https://www.linkedin.com/in/ramakrishnan-aadhali-b7609b382/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Ram-014">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-### 🎓 Certifications
-
-| Certificate | Platform |
-|---|---|
-| Java Full Stack Development — Spring Boot + React.js | Udemy |
-| Spring Boot & Hibernate — REST APIs, JPA, MySQL | Udemy |
-| Data Structures & Algorithms in Java | Udemy |
-| Git & GitHub — Version Control Fundamentals | freeCodeCamp |
-
----
-
-### 📬 Let's Connect
-
-🚀 Actively seeking Java Backend / Java Developer roles — available immediately
-📍 Bangalore · Chennai · Pune
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrishnan-aadhali-b7609b382/)
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:014ramakrishnanaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ram--014-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ram-014)
+### ⭐ Thanks for visiting my profile!
 
-</div>
+**"Clean Code • Scalable APIs • Continuous Learning"**
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B4F8A,0D1117&height=90&section=footer" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ram-014&color=2196F3&style=for-the-badge&label=Profile+Views)
-
-*"Ship clean APIs. Write testable code. Never break the contract."*
+![Profile Views](https://komarev.com/ghpvc/?username=Ram-014&style=for-the-badge)
 
 </div>
