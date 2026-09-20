@@ -2,15 +2,18 @@
 
 # 👋 Hi, I'm Ramakrishnan Aadhali
 
-### Java Backend Developer | Spring Boot | Spring AI | REST APIs | Microservices
+### 🤖 AI Engineer | Generative AI | Agentic AI
 
-🚀 Passionate about building scalable backend applications and AI-powered solutions using Java & Spring Ecosystem.
+**Python • LLMs • RAG • AI Agents • LangChain • LangGraph • FastAPI**
 
-🎓 **B.E. Computer Science Engineering (2026)**  
-📍 Bangalore | Chennai   
-🟢 **Open to Work — Java Backend Developer | Software Engineer**
+🚀 Building practical **AI applications, LLM-powered systems, RAG pipelines, AI agents, and intelligent backend APIs using Python.**
+
+🎓 **B.E. Computer Science Engineering — 2026 Graduate**  
+🐍 **Python-Focused AI Engineering**  
+🟢 **Open to Work — AI Engineer | Generative AI Engineer | Agentic AI Engineer**
 
 <p>
+
 <a href="https://www.linkedin.com/in/ramakrishnan-aadhali-b7609b382/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -29,193 +32,162 @@
 
 ---
 
-# 💼 About Me
+# 🧠 About Me
 
-I'm a **Java Backend Developer** passionate about building secure, scalable, and maintainable backend applications using the Spring ecosystem.
+I'm a **2026 Computer Science Engineering graduate** focused on **AI Engineering, Generative AI, and Agentic AI using Python**.
 
-My primary focus is on developing production-ready REST APIs, secure authentication systems, database-driven applications, and modern AI-powered backend services.
+I build practical AI systems that connect **LLMs with documents, vector databases, APIs, external tools, and real-world workflows**.
 
-Currently expanding my expertise in **Spring AI**, **Microservices**, **Docker**, **AWS**, and **Agentic AI**.
+My current focus is on:
+
+**Generative AI → LLM Applications → RAG → AI Agents → Tool Calling → AI APIs → Production AI**
+
+I'm interested in building AI applications that can **retrieve knowledge, use tools, interact with databases, execute multi-step workflows, and generate contextual responses**.
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ AI ENGINEERING SKILLS
 
-## ☕ Backend
+## 🐍 Python & Programming
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Python · Async Python · OOP · SQL · Data Processing · API Development**
+
+---
+
+## 🤖 Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-009688?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-673AB7?style=for-the-badge)
+
+**LLMs · Generative AI · Prompt Engineering · Context Engineering · LLM APIs · Structured Outputs**
+
+---
+
+## 🔎 RAG & Retrieval
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6F00?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-4CAF50?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge)
+
+**RAG · Embeddings · Semantic Search · Vector Search · Chunking · Context Retrieval · Vector Databases**
+
+---
+
+## 🧠 Agentic AI
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-4CAF50?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-673AB7?style=for-the-badge)
+
+**AI Agents · Agentic AI · Agent Workflows · LangChain · LangGraph · Agentic RAG · Multi-Step Workflows**
+
+---
+
+## 🔧 Tool & Function Calling
+
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-673AB7?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-009688?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured_Outputs-795548?style=for-the-badge)
+
+**Tool Calling · Function Calling · API Tools · External Tools · Structured Outputs · Workflow Orchestration**
+
+---
+
+# ⚙️ AI BACKEND STACK
+
+## 🚀 Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**FastAPI · REST APIs · Pydantic · Async Python · API Integration · Backend Architecture**
 
 ---
 
-## 🗄 Database
+## 🗄️ Databases & Vector Search
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2_Database-003366?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-009688?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-Vector_DB-FF6F00?style=for-the-badge)
+
+**PostgreSQL · MySQL · SQLAlchemy · Vector Databases · FAISS · Chroma**
 
 ---
 
-## ⚙️ Build & Dev Tools
+## 🔬 AI / ML Ecosystem
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Hugging Face · Sentence Transformers · NumPy · Pandas · Transformers · Embedding Models**
 
 ---
 
-## ☁️ Cloud & DevOps
+## 🐳 DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Docker · Docker Compose · Git · GitHub · Linux · Postman · AWS**
 
 ---
 
-## 🤖 AI & Agentic AI
+# 🚀 WHAT I BUILD
 
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-000000?style=for-the-badge)
-![Model Context Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-4CAF50?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-009688?style=for-the-badge)
-![Function Calling](https://img.shields.io/badge/Function_Calling-673AB7?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Backend
-
-**Tech Stack**
-
-- Java
-- Spring Boot
-- Spring Security
-- Hibernate
-- JWT
-- MySQL
-
-**Features**
-
-- JWT Authentication
-- Role-Based Authorization
-- Product Management
-- Shopping Cart
-- Order Management
-- REST APIs
-- Exception Handling
-
-🔗 https://github.com/Ram-014/ecommerce-fullstack
+| 🤖 AI Systems | ⚙️ Engineering Systems |
+|---|---|
+| Generative AI Applications | FastAPI Services |
+| RAG Applications | REST APIs |
+| AI Knowledge Assistants | Async Python APIs |
+| AI Agents | Database Integration |
+| Agentic RAG | External API Integration |
+| Tool-Using Agents | Dockerized Applications |
+| Document Intelligence | Cloud Deployments |
+| Natural Language → SQL | AI Backend Systems |
 
 ---
 
-### 📚 Core Java Mini Exercises
+# 🔥 FEATURED AI PROJECTS
 
-A comprehensive collection of Java programs covering
+## 🤖 AI Knowledge Assistant
 
-- Java Fundamentals
-- OOP
-- Collections Framework
-- Exception Handling
-- Multithreading
-- File Handling
-- Java 8 Features
+### `Python • FastAPI • LLM • RAG • LangChain • Vector Database`
 
-🔗 https://github.com/Ram-014
+An AI-powered knowledge assistant that allows users to upload documents and ask questions using **Retrieval-Augmented Generation**.
 
----
+### 🔄 RAG Pipeline
 
-### 🤖 AI Appointment Reminder SaaS *(In Progress)*
-
-**Tech Stack**
-
-- Spring Boot
-- Spring AI
-- MySQL
-- Docker
-- JWT
-- Razorpay
-- WhatsApp API
-
-**Features**
-
-- AI Appointment Scheduling
-- WhatsApp Reminders
-- Subscription Management
-- AI Assistant
-- Dashboard
-- Multi-Business Support
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ram-014&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Ram-014&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
-- ☕ Advanced Java
-- 🌱 Spring Boot
-- 🔐 Spring Security & JWT
-- 🏗️ Microservices
-- 🐳 Docker
-- ☁️ AWS
-- 🤖 Spring AI
-- 🧠 Agentic AI
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🔗 Model Context Protocol (MCP)
-- ⚡ LangChain4j
-- 🚀 AI-Powered Backend Development
-
----
-
-# 📫 Let's Connect
-
-I'm actively looking for opportunities as a **Java Backend Developer** and **Software Engineer**.
-
-<p align="center">
-
-<a href="mailto:014ramakrishnanaa@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ramakrishnan-aadhali-b7609b382/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ram-014">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**"Building Clean APIs • Secure Systems • Intelligent AI Applications"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ram-014&style=for-the-badge)
-
-</div>
+```text
+📄 Documents
+      ↓
+📑 Text Extraction
+      ↓
+✂️ Chunking
+      ↓
+🔢 Embeddings
+      ↓
+🗄️ Vector Database
+      ↓
+🔎 Similarity Search
+      ↓
+📚 Context Retrieval
+      ↓
+🤖 LLM
+      ↓
+💬 Answer
